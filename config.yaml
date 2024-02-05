@@ -3,9 +3,10 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        snn: 3
+        spiking neural network: 3
+        neuromorphic device: 3
+        
 
 # 通知の閾値
 score_threshold: 0
